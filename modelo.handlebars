@@ -7,7 +7,7 @@
 <html>
 
 <head>
-	<title>Prologue by HTML5 UP</title>
+	<title>Receitas</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="assets/css/main.css" />
@@ -38,16 +38,8 @@
 					<li>
 						<a href="#top" id="top-link"><span class="icon solid fa-home">Intro</span></a>
 					</li>
-
-					<li>
-						<a href="#portfolio" id="portfolio-link"><span class="icon solid fa-th">Portfolio</span></a>
-					</li>
-
-					<!-- isso aqui tem q vir dinamico -->
-					<li>
-						<a href="#receita-x" id="receita-x-link"><span class="icon solid fa-th">Receita X</span></a>
-					</li>
-
+					
+					
 					<!-- 
 						forEach das receitas pra colocar no menu
 					-->
@@ -93,109 +85,6 @@
 			</div>
 		</section>
 
-		<!-- 
-
-			forEach das receitas
-		-->
-
-		<!-- Receitas -->
-		<section id="receita-x" class="two">
-			<!-- tem q alterar entre two e three-->
-			<!-- isso aqui tem q vir dinamico -->
-			<div class="container">
-
-				<header>
-					<h2>Receita X</h2> <!-- isso aqui tem q vir dinamico -->
-				</header>
-
-				<p>Vitae natoque dictum etiam semper magnis enim feugiat convallis convallis
-					egestas rhoncus ridiculus in quis risus amet curabitur tempor orci penatibus.
-					Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis
-					fusce hendrerit lacus ridiculus.</p> <!-- isso aqui tem q vir dinamico -->
-
-				<div class="row">
-					<div class="col-sm">
-						<header>
-							<h3>Fotos:</h3> <!-- isso aqui tem q vir dinamico -->
-						</header>
-					</div>
-				</div>
-
-
-				<div class="row">
-					<div class="col-sm">
-						<header>
-							<h3>Tempo de preparo:</h3> <!-- isso aqui tem q vir dinamico -->
-						</header>
-					</div>
-				</div>
-
-				<div class="row">
-					<div class="col-sm">
-						<header>
-							<h3>Ingredientes:</h3> <!-- isso aqui tem q vir dinamico -->
-						</header>
-
-						<ul>
-							<li>item 1</li>
-							<li>item 1</li>
-							<li>item 1</li>
-							<li>item 1</li>
-							<li>item 1</li>
-							<li>item 1</li>
-						</ul>
-					</div>
-				</div>
-
-				<div class="row">
-					<div class="col-lg-12">
-						<header style="text-align: left;">
-							<h3>Modo de fazer:</h3> <!-- isso aqui tem q vir dinamico -->
-						</header>
-						<p>
-							Vitae natoque dictum etiam semper magnis enim feugiat convallis convallis
-							egestas rhoncus ridiculus in quis risus amet curabitur tempor orci penatibus.
-							Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis
-							fusce hendrerit lacus ridiculus.
-							<!-- isso aqui tem q vir dinamico -->
-						</p>
-
-
-					</div>
-				</div>
-
-
-
-				<div class="row">
-					<div class="col-sm">
-						<header>
-							<h3>Fontes:</h3> <!-- isso aqui tem q vir dinamico -->
-						</header>
-
-						<ul>
-							<li>item 1</li>
-							<li>item 1</li>
-							<li>item 1</li>
-							<li>item 1</li>
-							<li>item 1</li>
-							<li>item 1</li>
-						</ul>
-					</div>
-				</div>
-
-
-
-
-
-			</div>
-		</section>
-		<!--
-			fim for each das receitas
-		-->
-
-
-
-
 
 		{{#each receitas}}
 
@@ -203,7 +92,7 @@
 
 		<!-- Receitas -->
 		<section id="{{id}}" class="{{cssClass}}">
-			<!-- tem q alterar entre two e three-->
+			<!-- tem q alterar entre two e three pra mudar a cor do fundo -->
 			<div class="container">
 
 				<header>
@@ -229,7 +118,7 @@
 				<div class="row">
 					<div class="col-sm">
 						<header>
-							<h3>Fotos:</h3> <!-- isso aqui tem q vir dinamico -->
+							<h3>Fotos:</h3>
 						</header>
 					</div>
 				</div>
@@ -271,7 +160,7 @@
 				<div class="row">
 					<div class="col-lg-12">
 						<header style="text-align: left;">
-							<h3>Modo de fazer:</h3> <!-- isso aqui tem q vir dinamico -->
+							<h3>Modo de fazer:</h3>
 						</header>
 
 						<ul style="text-align:left;">
@@ -303,79 +192,6 @@
 			</div>
 		</section>
 		{{/each}}
-
-
-
-
-
-
-
-
-
-
-
-
-
-		<!-- Portfolio -->
-		<section id="portfolio" class="two">
-			<div class="container">
-
-				<header>
-					<h2>Portfolio</h2>
-				</header>
-
-				<p>Vitae natoque dictum etiam semper magnis enim feugiat convallis convallis
-					egestas rhoncus ridiculus in quis risus amet curabitur tempor orci penatibus.
-					Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis
-					fusce hendrerit lacus ridiculus.</p>
-
-				<div class="row">
-					<div class="col-4 col-12-mobile">
-						<article class="item">
-							<a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
-							<header>
-								<h3>Ipsum Feugiat</h3>
-							</header>
-						</article>
-						<article class="item">
-							<a href="#" class="image fit"><img src="images/pic03.jpg" alt="" /></a>
-							<header>
-								<h3>Rhoncus Semper</h3>
-							</header>
-						</article>
-					</div>
-					<div class="col-4 col-12-mobile">
-						<article class="item">
-							<a href="#" class="image fit"><img src="images/pic04.jpg" alt="" /></a>
-							<header>
-								<h3>Magna Nullam</h3>
-							</header>
-						</article>
-						<article class="item">
-							<a href="#" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
-							<header>
-								<h3>Natoque Vitae</h3>
-							</header>
-						</article>
-					</div>
-					<div class="col-4 col-12-mobile">
-						<article class="item">
-							<a href="#" class="image fit"><img src="images/pic06.jpg" alt="" /></a>
-							<header>
-								<h3>Dolor Penatibus</h3>
-							</header>
-						</article>
-						<article class="item">
-							<a href="#" class="image fit"><img src="images/pic07.jpg" alt="" /></a>
-							<header>
-								<h3>Orci Convallis</h3>
-							</header>
-						</article>
-					</div>
-				</div>
-
-			</div>
-		</section>
 	</div>
 
 	<!-- Footer -->

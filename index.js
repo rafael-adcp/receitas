@@ -25,7 +25,7 @@ for (const path of receitasPath) {
     } else {
         cssClass = 'three';
     }
-    console.log(`\n\n parsing: ${path}`);
+    console.log(`parsing: ${path}`);
 
     const receitaJson = require(`./${path}`);
     receitaJson.cssClass = cssClass;
@@ -44,10 +44,6 @@ for (const path of receitasPath) {
             if (i == 3) {// porque so queremos que o 1 varie entre 0,1,2
                 i = 0;
             }
-
-
-            console.log(`foto: ${foto} tem o contador ${i}`)
-            console.log('\n\n\n')
 
             if (i == 0) {
                 receitaJson.fotos[foto].openRow = true;
@@ -73,14 +69,10 @@ for (const path of receitasPath) {
 
 }
 
-console.log(
-    JSON.stringify(receitas, null, 2)
-)
-
 var result = template(
     {
         receitas: receitas
     }
 );
 
-fs.writeFileSync('teste.html', result, 'utf-8');
+fs.writeFileSync('index.html', result, 'utf-8');

@@ -1,0 +1,30 @@
+{
+    "id": "risoto-limao-siciliano",
+    "titulo": "Risoto de Limão Siciliano",
+    "tempo_preparo": "25 minutos",
+    "descricao": "Receita que aprendemos no curso do SENAC de Cozinha DIET e LIGHT com o Chef Guto.",
+    "ingredientes": [    
+        "200g arroz arboreo",
+        "1 cebola cortada em cubos",
+        "2 colheres de sopa de manteiga",
+        "1 limao siciliano",
+        "caldo de legumes +- 600 ml",
+        "queijo parmesao 50g",
+        "vinho branco 100ml"
+    ],
+    "preparo": [
+        "refogue a cebola na manteiga ate ela murchar",
+        "coloque o arroz e refogue",
+        "coloque o vinho e misture até soltar amido no fundo da panela",
+        "dica: se quiser congelar a base pronta pra qualquer risoto, separe a quantidade desejada agora, espere esfriar e congele",
+        "Adicione 2 conchas de caldo por vez no fogo alto ate o arroz ficar no ponto desejado, vão em média +- 8 conchas",
+        "coloque o suco do limao siciliano e algumas raspas se desejar",
+        "Quando o arroz atingir o ponto desejado coloque o queijo e a manteiga"
+    ],
+    "fotos": [
+        {
+            "path": "./fotos/risoto-limao-siciliano.jpeg",
+            "titulo": "27/05/2020"
+        }
+    ]
+}
