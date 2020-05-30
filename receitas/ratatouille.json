@@ -1,0 +1,32 @@
+{
+    "id": "ratatouille",
+    "titulo": "Ratatouille",
+    "tempo_preparo": "40 minutos",
+    "descricao": "Vai me dizer que voce viu o filme e nao ficou com vontade de fazer este prato?",
+    "ingredientes": [
+        "1 beringela",
+        "1 pimentao vermelho",
+        "1 pimentao amarelo",
+        "1 cebola grande",
+        "1 abobrinha",
+        "molho de tomate"
+    ],
+    "obs": "dica: pra facilitar a vida e tudo ficar do mesmo tamanho corte as coisas para se adequarem",
+    "preparo": [
+        "corte tudo com a mesma espessura",
+        "monte seguindo a mesma sequencia de items",
+        "forre um refratario com o molho de tomate",
+        "coloque as sequencias em cima ",
+        "despeje um pouco de molho sobre as sequencia (pouca coisa, nao eh pra virar sopa)",
+        "leve em forno 200 graus por 30 minutos"
+    ],
+    "fontes": [
+        "https://www.receitasnestle.com.br/receitas/ratatouille-legumes-assados"
+    ],
+    "fotos": [
+        {
+            "path": "./fotos/ratatouille.jpeg",
+            "titulo": "26/05/2020"
+        }
+    ]
+}
