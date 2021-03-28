@@ -1,0 +1,55 @@
+{
+    "id": "pao-de-milho-verde",
+    "titulo": "Pão de milho verde",
+    "tempo_preparo": "3~4 horas",
+    "ingredientes": [
+        "<b><u>Esponja:</u></b>",
+            "80 g de farinha de trigo",
+            "80 g de leite integral",
+            "5 g de fermento biológico seco ou 15 g de fermento biológico fresco (um tablete de 15 g)",
+        "<b><u>Massa final:</u></b>",        
+            "165 g de esponja (ou fermento natural ativado)",
+            "420 g de farinha de trigo",
+            "170 g de leite integral",
+            "10 g de sal",
+            "75 g de açúcar",
+            "25 g de leite integral em pó",
+            "100 g de milho verde cozido ou em conserva",
+            "1 ovo",
+            "50 g de manteiga sem sal",
+        "<b><u>Cobertura:</u></b>",
+            "1 clara de ovo",
+            "15 g de fubá mimoso"
+    ],
+    "obs": "se quiser utilizar fermento natural, são 160 g de fermento natural de farinha branca. O fermento não pode ser usado direto da geladeira.",
+    "preparo": [
+        "Misture todos os ingredientes da <b><u>esponja</u></b> e deixe crescer por 30~60 minutos",
+        "Triture o milho no liquidificador",
+        "misture a esponja com a farinha, açucar e sal restantes",
+        "quando incorporar adicione o leite em pó, o ovo e o milho batido",
+        "Deixe batendo por 5 minutos para incorporar todos os ingredientes",
+        "Então Sove por 10~20 minutos",
+
+        "A massa pode não chegar a descolar da tigela, mas precisa estar bem lisa e elástica",
+        "Pra finalizar acrescente a manteiga e bata por mais 5~10 minutos para incorporar",
+        "Então deixe a massa descansar até ela atingir 26º graus o que deve levar de 45~60 minutos",
+        
+        "Coloque a massa sobre a bancada e divida-a em 3 partes (340g cada uma +-)",
+        "faça bolinhas e coloque sobre uma assadeira untada e deixe fermentar por 30 minutos",
+        "aqueça o forno a 180º",
+        "pincele clara de ovo em toda a superfície e polvilhe o fubá",
+
+        "Coloque o pão no forno e após 15 minutos vire a forma para assar o pão de maneira mais uniforme",
+        "Ele deve demorar de 40~50 minutos para ficar pronto",
+        "para verificar basta espetar um termômetro espeto, a temperatura deve atingir 90º (Se estiver abaixo dessa temperatura, o miolo ainda estará gelatinoso. Por outro lado, se deixar muito tempo no forno, pode ficar ressecado)",
+        "Retire do forno, e retire imediatamente da assadeira"
+
+
+
+        
+    ],
+   
+    "fontes": [
+        "https://amopaocaseiro.com.br/receita/pao-de-milho-verde/"
+    ]
+}

@@ -13,7 +13,7 @@ const template = handlebars.compile(templateSource);
 //var receitas = require('./receitas/picles.json');
 const receitasPath = recursiveReadSync('./receitas');
 
-const receitas = [];
+let receitas = [];
 
 let i = 0;
 for (const path of receitasPath) {
@@ -68,6 +68,9 @@ for (const path of receitasPath) {
 
 
 }
+
+//sorting things so they appear ordered ASC
+receitas = _.sortBy(receitas, (o)=> {return o.titulo});
 
 var result = template(
     {

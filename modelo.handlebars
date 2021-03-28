@@ -40,7 +40,7 @@
 					</li>
 
 					<li>
-						<a href="#sumario" id="sumario-link"><span class="fas fa-list">Sumário</span></a>
+						<a href="#sumario" id="sumario-link"><span class="icon solid fa-list">Sumário</span></a>
 					</li>
 					
 					<hr />
@@ -120,13 +120,15 @@
 					</div>
 				</div>
 
-				<div class="row">
-					<div class="col-sm">
-						<header>
-							<h3>Fotos:</h3>
-						</header>
+				{{#if fotos}}
+					<div class="row">
+						<div class="col-sm">
+							<header>
+								<h3>Fotos:</h3>
+							</header>
+						</div>
 					</div>
-				</div>
+				{{/if}}
 
 				{{#each fotos}}
 					{{#if openRow}}
@@ -156,7 +158,7 @@
 
 						<ul style="text-align:left;">
 							{{#each ingredientes}}
-							<li>{{this}}</li>
+							<li>{{{this}}}</li>
 							{{/each}}
 						</ul>
 					</div>
@@ -170,7 +172,7 @@
 
 						<ul style="text-align:left;">
 							{{#each preparo}}
-							<li>{{this}}</li>
+							<li>{{{this}}}</li>
 							{{/each}}
 						</ul>
 					</div>
