@@ -38,18 +38,11 @@
 					<li>
 						<a href="#top" id="top-link"><span class="icon solid fa-home">Intro</span></a>
 					</li>
-					
-					
-					<!-- 
-						forEach das receitas pra colocar no menu
-					-->
-					{{#each receitas}}
+
 					<li>
-						<a href="#{{id}}" id="{{id}}-link"><span class="icon solid fa-th">{{titulo}}</span></a>
+						<a href="#sumario" id="sumario-link"><span class="fas fa-list">Sumário</span></a>
 					</li>
-					{{/each}}
-
-
+					
 					<hr />
 				</ul>
 			</nav>
@@ -86,12 +79,22 @@
 				</header>
 			</div>
 		</section>
-
+		
+		<!-- Sumário -->
+		<section id="sumario" class="one dark cover">
+			<div class="container">
+				<header>
+					<h2>Sumário</h2>
+				</header>
+				{{#each receitas}}
+					<li style="text-align: left;">
+						<a href="#{{id}}" id="{{id}}-link"><span>{{titulo}}</span></a>
+					</li>
+				{{/each}}
+			</div>
+		</section>
 
 		{{#each receitas}}
-
-
-
 		<!-- Receitas -->
 		<section id="{{id}}" class="{{cssClass}}">
 			<!-- tem q alterar entre two e three pra mudar a cor do fundo -->
