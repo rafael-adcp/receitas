@@ -26,5 +26,12 @@
     
     "fontes": [
         "receita do Nelson Frazão"
+    ],
+    
+    "fotos": [
+        {
+            "path": "./fotos/sopa-de-tomate.jpeg",
+            "titulo": "20/01/2014"
+        }
     ]
 }
