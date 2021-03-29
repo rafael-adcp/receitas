@@ -1,0 +1,32 @@
+{
+    "id": "tora-de-ricota",
+    "titulo": "torta de ricota",
+    "tempo_preparo": "2 horas",
+    "obs": "essa torta fica muito mas muito melhor no dia seguinte",
+    "ingredientes": [
+        "<b><u>Massa:</u></b>",
+        "2 xicaras de farinha",
+        "1,5 xicara de açúcar",
+        "4 colheres de café de fermento em pó",
+        "1 colher de sopa bem cheia de manteiga",
+        "1 colher de sopa de banha",
+        "2 ovos",
+        "1 colher de leite",
+        "<b><u>Recheio:</u></b>",
+        "1 pacote de ricota",
+        "2 xicaras de açúcar",
+        "Casca de 1 limão ralado",
+        "50 g de uva passas",
+        "2 ovos"
+    ],
+    "preparo": [
+        "Peneire os ingredientes secos e junte a manteiga e a banha",
+        "depois coloque os 2 ovos e o leite, amasse até dar liga, depois deixe descansando por 1 hora e meia.",
+        "Estenda a massa em uma assadeira untada (de preferência quelas q saem o fundo)",
+        "Em uma vasilha misture todos os ingredientes do recheio e coloque por cima da massa.",
+        "Leve ao fogo em forno brando até dourar"
+    ],
+    "fontes": [
+        "receita da Alice Prado"
+    ]
+}
