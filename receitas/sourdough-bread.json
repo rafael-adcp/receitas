@@ -1,0 +1,76 @@
+{
+    "id": "sourdough-bread",
+    "titulo": "Sourdough bread",
+    "tempo_preparo": "24h",
+    "rendimento": "2 pães",
+    "ingredientes": [
+        "3~4 xícaras de farinha branca",
+        "2 xícaras de farinha integral",
+        "3,5 xícaras de água",
+        "umas 2 pitadas bem generosas de sal",
+        "1 xícara do sourdough starter alimentado ( +- 150 ~ 200g)"
+    ],
+    "preparo": [
+        "<h3><u>Um dia antes:</u></h3>",
+        "<b><u>08:00:</u></b>",
+        
+        "alimente o starter (use água gelada)",
+        "misture toda a farinha da receita com toda a água (autólise)",
+        "deixe ambos em temperatura ambiente descansando até o starter atingir o ápice (quase ficar sem alimento e parar de crescer)",
+        "fique de olho, pois pode demorar de 2 ~ 10 horas dependendo da temperatura entre outros fatores",
+
+        "<b><u>17:00:</u></b>",
+        "misture o started + sal + autolise",
+        "deixe descansar por 30 min",
+
+        "<b><u>17:30 ~ 19:30</u></b>",
+        
+        "em intervalos de 30 minutos, dobre a massa utilizando o método 'Strech and fold'",
+
+        "<b><u>19:30</u></b>",
+        "agora sua massa deve ter tomado uma forma melhor e nao esta mais tao grudenta (caso contrario continue o strech and fold)",
+        "deixe a massa descansar até q ela aumente seu volume em 30~50% (o que pode levar de 2h~6h dependendo da temperatura entre outros fatores)",
+
+        "<b><u>22:00 (ou quando a massa tiver atingido o crescimento desejado)</u></b>",
+        "divida a massa em bolinhas e boleie",
+        "então deixe descansar por 30 minutos",
+
+        "<b><u>22:30</u></b>",
+        "dê a forma final do paozinho",
+        "mova-o para o benetton (ou uma assadeira com um pano cheio de farinha)",
+        "cubra com papel plastico",
+        "leve para geladeira até o dia seguinte",
+
+
+        "<h3><u>Dia de assar:</u></h3>",
+        "<b><u>07:00:</u></b>",
+        "pré-aqueça o forno a 260º por 45 minutos ~ 1 hora",
+
+        "<b><u>08:00:</u></b>",
+        "retire o pão da geladeira",
+        "faça o corte para que o ar saia",
+        "leve ao fogo (se for em panela, deixe-a fechada) por 20 minutos",
+        "diminua a temperatura para 230º (se for em panela, retire a tampa) e deixe por 20 ~ 30 minutos"
+    ],
+    "fotos": [
+        {
+            "path": "./fotos/sourdough-bread/sourdough-bread-1.jpeg",
+            "titulo": "09/05/2021"
+        },
+        {
+            "path": "./fotos/sourdough-bread/sourdough-bread-2.jpeg",
+            "titulo": "09/05/2021"
+        },
+        {
+            "path": "./fotos/sourdough-bread/sourdough-bread-3.jpeg",
+            "titulo": "09/05/2021"
+        },
+        {
+            "path": "./fotos/sourdough-bread/sourdough-bread-4.jpeg",
+            "titulo": "09/05/2021"
+        }
+    ],
+    "fontes": [
+        "https://www.youtube.com/watch?v=zhd1eeoM2Vg"
+    ]
+}

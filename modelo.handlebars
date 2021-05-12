@@ -105,6 +105,10 @@
 				</header>
 
 				<p>{{descricao}}
+					{{#if rendimento}}
+					<br /><br />
+					<b>Rendimento:</b> {{rendimento}}
+					{{/if}}
 
 					{{#if obs}}
 					<br /><br />
@@ -188,7 +192,7 @@
 
 						<ul style="text-align:left;">
 							{{#each fontes}}
-							<li>{{this}}</li>
+							<li>{{{this}}}</li>
 							{{/each}}
 						</ul>
 					</div>
