@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "handlebars": "^4.7.7",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "recursive-readdir-sync": "^1.0.6"
   }
 }
