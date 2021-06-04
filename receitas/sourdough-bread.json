@@ -68,7 +68,24 @@
         {
             "path": "./fotos/sourdough-bread/sourdough-bread-4.jpeg",
             "titulo": "09/05/2021"
+        },
+        {
+            "path": "./fotos/sourdough-bread/sourdough-bread-5.jpeg",
+            "titulo": "02/06/2021"
+        },
+        {
+            "path": "./fotos/sourdough-bread/sourdough-bread-6.jpeg",
+            "titulo": "02/06/2021"
+        },
+        {
+            "path": "./fotos/sourdough-bread/sourdough-bread-7.jpeg",
+            "titulo": "02/06/2021"
+        },
+        {
+            "path": "./fotos/sourdough-bread/sourdough-bread-8.jpeg",
+            "titulo": "02/06/2021"
         }
+        
     ],
     "fontes": [
         "https://www.youtube.com/watch?v=zhd1eeoM2Vg"
