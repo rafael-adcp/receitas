@@ -1,0 +1,41 @@
+id: pao-frances
+titulo: Pão Francês
+tempo_preparo: 14 horas
+obs: faça de um dia para o outro
+descricao: Pão francês caseiro
+ingredientes:
+  - 500g de Farinha Branca
+  - 10g de Fermento Biológico seco
+  - 1 colher de chá de azeite
+  - 300ml de água
+  - 10g sal
+  - 5g acúcar
+preparo:
+  - Misture tudo até obter uma massa homogênea
+  - Sove por 10-15 minutos pra trabalhar bem o glúten, obtendo uma massa
+    extensível e elástica
+  - Faça uma bolinha, coloque de volta na bacia e deixe descansar por 15 minutos
+  - Faça uma dobra nela e faça a bolinha novamente
+  - Agora coloque na bacia, feche com filme plástico e leve pra geladeira por 12
+    horas
+  - ela vai crescer bastante (triplicar ou mais)
+  - tire um pouco do ar da massa
+  - divida em 9 partes (jogo da velha)
+  - enrole cada pedaço (estilo rocambole) esticando para dar tensão (pra
+    facilitar amasse uma das pontas na mesa pra grudar)
+  - Unte uma forma com manteiga
+  - coloque a parte lisa de cada paozinho para baixo e enrole novamente dando
+    então o formato do pão francês
+  - Coloque os pães na forma, cubra com um pano e espere eles crescerem até
+    dobrar (segunda fermentação)
+  - Pré-aqueça um forno a 240-250 graus
+  - "extra: Polvilhe um pouco de farinha por cima dos pães"
+  - usando uma faca bem afiada, faça o corte na massa
+  - Cubra com papel alumínio
+  - Leve ao forno por 25-30 minutos
+  - Quando der 15 minutos retire o papel aluminio para caramelizar o pão
+fotos:
+  - path: ./fotos/pao-frances.jpeg
+    titulo: 28/05/2020
+fontes:
+  - https://www.youtube.com/watch?v=KCe85lhkfOg

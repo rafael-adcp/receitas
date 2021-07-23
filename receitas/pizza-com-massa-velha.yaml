@@ -1,0 +1,52 @@
+id: pizza-com-massa-velha
+titulo: Pizza com massa velha
+tempo_preparo: longo d+ mas vale a pena
+ingredientes:
+  - 2010g de farinha [1340 (nova) + 670 (velha)]
+  - 40.2g de sal (2% do total de farinha)
+  - 40.2g de açucar (2% do total de farinha)
+  - 60.3g de azeite (3% do total de farinha)
+  - 6.03g fermento biológico fresco (0.3% do total de farinha)
+  - 1139g de água (335 para massa velha e 804 para massa final
+preparo:
+  - >
+    <code>cada massa de pizza tem 400g <br/>
+    <var>qtde_de_pizza</var> X 400 =
+    <var>total de massa pra fazer em gramas</var><br/>
+    <var>8</var> X 400 =
+    <var>3200</var><br/>
+    Calculando qtde de massa velha (é na proporção 1 : 1/2 é
+    uma massa que fica na geladeira por mais de 3 dias: <br/>
+    500g de farinha
+    para massa velha -> 6 pizzas </br><var> x </var> -> 8 pizzas <br/>
+    <var> x
+    </var> = 670g de farinha <br/>
+    <var>agua </var> = 670 / 2 = 335g de água
+    <br/>
+    <br/>
+    <br/>
+    Calculando ingredientes para massa: <br/>
+    farinha = 2 X
+    <var>farinha da massa velha</var><br/>
+    farinha = 2 X 670 = 1340<br/>
+     água
+    (60% hidratado) = 1340 * 0.6 = 804g<br/>
+    <br/>
+    <br/>
+    farinha total = 1340
+    (nova) + 670 (velha) = 2010g<br/>
+     sal = 0.02 * 2010 = 40.2g<br/>
+     açúcar =
+    0.02 * 2010 = 40.2g<br/>
+     azeite = 0.03 * 2010 = 60.3g<br/>
+     fermento = 0.003
+    * 2010 = 6.03g"
+  - misture a água e acrescente a farinha nova, açúcar e fermento
+  - Pese 1005 da massa velha (670 + 335) e misture todo, acrescente o azeite e o
+    sal
+  - retire de batedeira e deixe descansar por 20 minutos
+  - porcione e faça bolinhas e deixe descansar até dobrar de tamanho
+  - faça o disco e se for fazer em forno comum, passe um pouco de molho e asse-o
+    primeiro para depois colocar o recheio
+fontes:
+  - SENAC

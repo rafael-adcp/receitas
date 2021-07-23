@@ -1,0 +1,30 @@
+id: pulled-pork
+titulo: Pulled Pork
+tempo_preparo: 5 horas
+descricao: Churrasco de carne de porco usando método lento de preparo.
+ingredientes:
+  - 700g de carne de carne de porco (lombo, costela...)
+  - "bark: sal, pimenta, orégano, paprica, louro, tomilho"
+  - 6 laranjas
+  - 1 xícara de shoyu
+  - qb de gengibre em conserva picado bem pequeno
+  - 1 limão
+preparo:
+  - Tempere a carne para criar a crosta de temperos (bark)
+  - leve ao forno / churrasqueira a bafo por 2.5 horas temperatura +- 180 graus
+  - retire do fogo de divida em 2 partes (pois estamos fazendo dois molhos um
+    com shoyu de outro com laranja)
+  - em um acrescente o suco das laranjas e feche com papel alumínio
+  - no outro coloque o shoyu, gengibre o limão espremido e feche da mesma forma
+  - Mais 2 horas de forno / churrasqueira
+  - retire e faça uma leve pressao se afundar / desmanchar esta pronto, caso
+    contrario volta para o forno
+  - quando estiver prontor retire do fogo e espere 25 minutos para a carne
+    descansar (destribuir a humidade interna igualmente)
+  - chegada a hora do pulled pork, esmague a carne dentro do molho e a deixe
+    absorver o molho por 15 minutos e então estará pronto
+fontes:
+  - https://www.youtube.com/watch?v=N_WZcwIWczI
+fotos:
+  - path: ./fotos/pulled-pork.jpeg
+    titulo: 26/05/2020

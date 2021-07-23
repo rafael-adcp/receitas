@@ -1,0 +1,37 @@
+id: tortano-com-poolish
+titulo: Tortano com Poolish
+tempo_preparo: ???
+ingredientes:
+  - 2260g de farinha
+  - sal 45.2 = 2260 * 0.02(2%)
+  - açúcar 67.8 = 2260 * 0.03(3%)
+  - azeite 113 = 2260 * 0.05(5%)
+  - fermento 11,3 = 2260 * 0.005 (0,5%)
+preparo:
+  - >
+    <code>cada tortano tem 1130g <br/>
+    <var>qtde_de_tortano</var> X 1130 =
+    <var>total de massa pra fazer em gramas</var><br/>
+    <var>3</var> X 1130 =
+    <var>3390</var><br/>
+    Poolish é na proporção 1:1 (agua:farinha)<br/>
+    Aqui
+    estamos fazendo um pão 50% hidratado<br/>
+    3390 = <var>farinha</var> + 0,5 X
+    <var>farinha</var><br/>
+    <var>farinha</var> = 2260<br/>
+    Logo poolish será feito
+    com:<br/>
+    1130g de farinha e 1130g de água e com <br/>
+    <var>fermento biológico
+    seco</var> = <var>farinha</var> X 0.5% = 2260 * 0.005 = 11.3g</code>
+  - misture os ingredientes do poolish (1130g de farinha, 1130g de água e 11.3g
+    de fermento)
+  - deixe o poolish descansar de 30 ~ 40 minutos
+  - Misture o restante dos ingredientes (1130g de farinha, 67.8g de açucar, 113g
+    de azeite e 45.2 de sal)
+  - tire da batedeira e deixe descansar por 20 minutos
+  - porcione e faça bolinhas e deixe descansar até dobrar de tamanho
+  - leve ao forno
+fontes:
+  - SENAC

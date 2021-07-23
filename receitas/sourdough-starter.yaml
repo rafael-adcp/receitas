@@ -1,0 +1,64 @@
+id: sourdough-starter
+titulo: Sourdough Starter
+tempo_preparo: 7 dias
+ingredientes:
+  - 100g farinha integral (se for organica melhor ainda)
+  - 150g de água
+preparo:
+  - <b><u>Dia 1:</u></b>
+  - Pese o pote sem a tampa e anote, você utilizará essa medida para sempre
+  - anote o dia em que você começou para te ajudar a saber em que dia você esta,
+    caso perca as contas
+  - Misture a água e a farinha
+  - coloque no pote deixando sua tampa entreaberta para que os gases produzidos
+    possam sair e deixe em temperatura ambiente
+  - <b><u>Dia 2, 3:</u></b>
+  - deixe apenas 70g da mistura feita anteriormente e descarte o resto (pode
+    fazer pao, panquenca.... vide links nas referências)
+  - adicione 50g de farinha integral
+  - adicione 50g de farinha branca
+  - adicione 115g de água
+  - tampe e deixe descansar sempre em temperatura ambiente
+  - <b><u>Dia 4,5:</u></b>
+  - deixe apenas 70g da mistura feita anteriormente e descarte o resto (pode
+    fazer pao, panquenca.... vide links nas referências)
+  - adicione 50g de farinha integral
+  - adicione 50g de farinha branca
+  - adicione 100 de água
+  - tampe e deixe descansar sempre em temperatura ambiente
+  - <b><u>Dia 6:</u></b>
+  - deixe apenas 50g da mistura feita anteriormente e descarte o resto (pode
+    fazer pao, panquenca.... vide links nas referências)
+  - adicione 50g de farinha integral
+  - adicione 50g de farinha branca
+  - adicione 100 de água
+  - tampe e deixe descansar sempre em temperatura ambiente
+  - <b><u>Dia 7+:</u></b>
+  - deixe apenas 25 da mistura feita anteriormente e descarte o resto (pode
+    fazer pao, panquenca.... vide links nas referências)
+  - adicione 50g de farinha integral
+  - adicione 50g de farinha branca
+  - adicione 100 de água
+  - tampe e deixe descansar sempre em temperatura ambiente
+  - <b><u>E agora?</u></b>
+  - daqui em diante voce pode começar a utilizar o fermento, basta alimenta-lo e
+    esperar ele crescer para utilizar
+  - pode-se também alimenta-lo e coloca-lo na geladeira o que vai retardar a
+    fementação (uma dia é colocar agua gelada o que vai retardar ainda mais),
+    porém deve-se alimentá-lo uma vez na semana no mínimo
+  - caso armazenado em geladeira, tirar 1 ou 2 dias antes do dia desejado para
+    reativar o fermento
+fotos:
+  - path: ./fotos/sourdough-starter/sourdough-starter-1.jpeg
+    titulo: 03/05/2021 - Dia 3
+  - path: ./fotos/sourdough-starter/sourdough-starter-2.jpeg
+    titulo: 03/05/2021 - Dia 3
+  - path: ./fotos/sourdough-starter/sourdough-starter-3.jpeg
+    titulo: 03/05/2021 - Dia 3
+fontes:
+  - https://www.youtube.com/watch?v=sTAiDki7AQA
+  - https://www.youtube.com/watch?v=zhd1eeoM2Vg
+  - https://www.youtube.com/watch?v=ZTHHI0iuamA
+  - https://www.youtube.com/watch?v=AAAgZzZIZCA
+  - <a href = 'https://www.youtube.com/watch?v=vVx2oFFptG0'>O que fazer com o
+    descarte</a>

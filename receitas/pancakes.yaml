@@ -1,0 +1,34 @@
+id: pancakes
+titulo: Panquecas do Dave
+tempo_preparo: 20 minutos
+obs: para duas pessoas 1/2 receita é mais do que suficiente
+descricao: em 2014 quando eu e minha namorada tiramos nossas primeiras ferias
+  como estagiarios decidimos ir para Paraty-RJ onde ficamos hospedados na
+  Pousada Guarana (hoje conhecida como Pousada Aquarium). Na epoca era gerida
+  pelos donos uma carioca (Jimena) e um gringo (Dave) q veio tirar ferias pelo
+  Brasil e acabou ficando por aqui. Alem da hospitalidade show de bola o cafe da
+  manha era maravilhoso :] eis que pedimos a receita para eles e esta virou uma
+  de nossas recordações de Paraty.
+ingredientes:
+  - 2 xícaras de farinha de trigo
+  - 1/4 xícara de açúcar mascavo 
+  - 1 colher de sopa de fermento em pó 
+  - 1 colher de chá de sal 
+  - 1/2 colher de chá de canela em pó 
+  - "Aveia em flocos 2 xícaras "
+  - 2 xícaras de leite 
+  - 2 ovos grandes 
+  - 1/4 xícara de óleo vegetal , além de mais para frigideira (se necessario)
+  - "extra: uma colher de cha de cacau em pó para dar um gosto doce a massa"
+preparo:
+  - Em um processador de alimentos , misture a farinha , o açúcar, o fermento em
+    pó , sal , canela e aveia e pulse algumas vezes para moer grosseiramente
+    aveia.
+  - Em uma tigela grande , misture o leite , ovos e óleo. Adicione os
+    ingredientes secos e misture bem. 
+  - Aqueça uma frigideira grande ( antiaderente ou ferro fundido ) e coloque uma
+    concha por vez (tampe pra acelerar o processo) e espere ate conseguir virar.
+  - Sirva pura, com mel ou charope de maçā
+fotos:
+  - path: ./fotos/panquecas.jpeg
+    titulo: 25/05/2020

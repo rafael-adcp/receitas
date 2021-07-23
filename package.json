@@ -11,6 +11,7 @@
   "dependencies": {
     "handlebars": "^4.7.7",
     "lodash": "^4.17.21",
-    "recursive-readdir-sync": "^1.0.6"
+    "recursive-readdir-sync": "^1.0.6",
+    "yaml": "^1.10.2"
   }
 }

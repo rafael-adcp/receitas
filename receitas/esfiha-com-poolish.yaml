@@ -1,0 +1,28 @@
+id: esfiha-com-poolish
+titulo: Esfiha com Poolish
+tempo_preparo: tbd
+ingredientes: 
+    - 1766g de farinha
+    - 27g de sal (1.5% do total de farinha)
+    - 125g de açucar (7.6% do total de farinha)
+    - 90g de azeite (5% do total de farinha)
+    - 5.2g fermento biológico fresco (0.3% do total de farinha)
+preparo:
+    - >
+        cada massa de pizza tem 400g <br/>
+        <var>qtde_de_pizza</var> X 400 = <var>total de massa pra fazer em gramas</var><br/>
+        <var>3.75</var> X 400 = <var>1500</var><br/>
+        Poolish é na proporção 1:1 (agua:farinha)<br/>
+        1500 = <var>farinha</var> + 0,5 X <var>farinha</var><br/>
+        <var>farinha</var> = 1000<br/>
+        Logo poolish será feito com:<br/>
+        500g de farinha e 500g de água e com <br/>
+        <var>fermento biológico seco</var> = <var>farinha</var> X 0.5% = 1000 * 0.005 = 5g</code>
+    - misture os ingredientes do poolish (500g de farinha, 500g de água e 5g de fermento)
+    - deixe o poolish descansar de 30 ~ 40 minutos
+    - Misture o restante dos ingredientes (500g de farinha, 20g de açucar, 50g de azeite e 20g de sal)
+    - tire da batedeira e deixe descansar por 20 minutos
+    - porcione e faça bolinhas e deixe descansar até dobrar de tamanho
+    - faça o disco e se for fazer em forno comum, passe um pouco de molho e asse-o primeiro para depois colocar o recheio
+fontes:
+    - SENAC
