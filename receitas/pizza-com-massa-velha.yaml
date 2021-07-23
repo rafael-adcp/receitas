@@ -10,24 +10,24 @@ ingredientes:
   - 1139g de água (335 para massa velha e 804 para massa final
 preparo:
   - >
-    <code>cada massa de pizza tem 400g <br/>
-    <var>qtde_de_pizza</var> X 400 =
-    <var>total de massa pra fazer em gramas</var><br/>
-    <var>8</var> X 400 =
-    <var>3200</var><br/>
+    cada massa de pizza tem 400g <br/>
+    qtde_de_pizza X 400 =
+    total de massa pra fazer em gramas<br/>
+    8 X 400 =
+    3200<br/>
     Calculando qtde de massa velha (é na proporção 1 : 1/2 é
     uma massa que fica na geladeira por mais de 3 dias: <br/>
     500g de farinha
-    para massa velha -> 6 pizzas </br><var> x </var> -> 8 pizzas <br/>
-    <var> x
-    </var> = 670g de farinha <br/>
-    <var>agua </var> = 670 / 2 = 335g de água
+    para massa velha -> 6 pizzas </br> x  -> 8 pizzas <br/>
+     x
+     = 670g de farinha <br/>
+    agua  = 670 / 2 = 335g de água
     <br/>
     <br/>
     <br/>
     Calculando ingredientes para massa: <br/>
     farinha = 2 X
-    <var>farinha da massa velha</var><br/>
+    farinha da massa velha<br/>
     farinha = 2 X 670 = 1340<br/>
      água
     (60% hidratado) = 1340 * 0.6 = 804g<br/>

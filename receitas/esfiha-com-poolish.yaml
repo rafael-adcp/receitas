@@ -10,14 +10,14 @@ ingredientes:
 preparo:
     - >
         cada massa de pizza tem 400g <br/>
-        <var>qtde_de_pizza</var> X 400 = <var>total de massa pra fazer em gramas</var><br/>
-        <var>3.75</var> X 400 = <var>1500</var><br/>
+        qtde_de_pizza X 400 = total de massa pra fazer em gramas<br/>
+        3.75 X 400 = 1500<br/>
         Poolish é na proporção 1:1 (agua:farinha)<br/>
-        1500 = <var>farinha</var> + 0,5 X <var>farinha</var><br/>
-        <var>farinha</var> = 1000<br/>
+        1500 = farinha + 0,5 X farinha<br/>
+        farinha = 1000<br/>
         Logo poolish será feito com:<br/>
         500g de farinha e 500g de água e com <br/>
-        <var>fermento biológico seco</var> = <var>farinha</var> X 0.5% = 1000 * 0.005 = 5g</code>
+        fermento biológico seco = farinha X 0.5% = 1000 * 0.005 = 5g
     - misture os ingredientes do poolish (500g de farinha, 500g de água e 5g de fermento)
     - deixe o poolish descansar de 30 ~ 40 minutos
     - Misture o restante dos ingredientes (500g de farinha, 20g de açucar, 50g de azeite e 20g de sal)

@@ -4,19 +4,21 @@ tempo_preparo: 1 hora e 50 minutos
 obs: to em busca de uma massa boa ainda essa é a segunda tentativa mas ainda
   nada de sucesso
 ingredientes:
-  - <b><u>Massa:</u></b>
-  - 250g de farinha de trigo
-  - 1 ovo
-  - 100 g de manteia
-  - <b><u>Recheio:</u></b>
-  - 250g de queijo minas ou ricota
-  - 80g de alho poro picado
-  - 1 pacotinho  / bandeija de espinafre
-  - 3 ovos
-  - 1/2 cebola roxa
-  - 1 xicara de leite
-  - noz moscada a gosto
-  - 1 colher de cha de sal
+  - >
+    <b><u>Massa:</u></b> </br>
+    250g de farinha de trigo </br>
+    1 ovo  </br>
+    100 g de manteia  </br>
+  - >
+    <b><u>Recheio:</u></b> </br>
+    250g de queijo minas ou ricota </br>
+    80g de alho poro picado </br>
+    1 pacotinho  / bandeija de espinafre </br>
+    3 ovos </br>
+    1/2 cebola roxa </br>
+    1 xicara de leite </br>
+    noz moscada a gosto </br>
+    1 colher de cha de sal </br>
 preparo:
   - misture todos os ingredientes da massa e forme uma bola
   - leve a geladeira por 1 hora (para endurecer e ficar mais facil de trabalhar)

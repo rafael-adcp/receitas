@@ -9,22 +9,22 @@ ingredientes:
   - fermento 11,3 = 2260 * 0.005 (0,5%)
 preparo:
   - >
-    <code>cada tortano tem 1130g <br/>
-    <var>qtde_de_tortano</var> X 1130 =
-    <var>total de massa pra fazer em gramas</var><br/>
-    <var>3</var> X 1130 =
-    <var>3390</var><br/>
+    cada tortano tem 1130g <br/>
+    qtde_de_tortano X 1130 =
+    total de massa pra fazer em gramas<br/>
+    3 X 1130 =
+    3390<br/>
     Poolish é na proporção 1:1 (agua:farinha)<br/>
     Aqui
     estamos fazendo um pão 50% hidratado<br/>
-    3390 = <var>farinha</var> + 0,5 X
-    <var>farinha</var><br/>
-    <var>farinha</var> = 2260<br/>
+    3390 = farinha + 0,5 X
+    farinha<br/>
+    farinha = 2260<br/>
     Logo poolish será feito
     com:<br/>
     1130g de farinha e 1130g de água e com <br/>
-    <var>fermento biológico
-    seco</var> = <var>farinha</var> X 0.5% = 2260 * 0.005 = 11.3g</code>
+    fermento biológico
+    seco = farinha X 0.5% = 2260 * 0.005 = 11.3g
   - misture os ingredientes do poolish (1130g de farinha, 1130g de água e 11.3g
     de fermento)
   - deixe o poolish descansar de 30 ~ 40 minutos
