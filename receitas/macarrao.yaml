@@ -1,0 +1,42 @@
+id: macarrao
+titulo: Massa de Macarrão
+tempo_preparo: 45 minutos
+obs: porção para 2 pessoas, em média sao 340g por pessoa
+ingredientes:
+  - <b><u>Massa:</u></b>
+  - 200g de farinha
+  - 2 ovos
+  - <b><u>Molho:</u></b>
+  - 1/4 cebola
+  - 1/3 salsão
+  - 1 cenoura
+  - 1 lata de passata
+
+preparo:
+- <b><u>Massa:</u></b>
+- misture os ovos e a farinha até forar uma bolinha
+- deixe descançar por 30 minutos (tem que empurrar com o dedo e voltar)
+
+- <b><u>Molho:</u></b>
+- corte todos os ingredientes em cubos
+- em uma panela coloque a passata e todos os vegetais
+- encha a lata de passata com água para retirar o que ficou e acrescente na panela
+- tampe e deixe cozinhar por 20 minutos
+
+- <b><u>Agora que ambos estão prontos (massa desncansada e molho pronto):</u></b>
+- estenda a massa com um rolo de macarrão / garrafa / maquininha
+- corta no formato desejado
+- coloque sob um pano enfarinhando enquanto corta o restante (para evitar ressecar)
+- com toda a massa cortada
+- ferva uma panela de água com uma pitada de sal e azeite (caso não queira colocar o azeite aqui, deixe o macarrão cortado descansar por 30 minutos)
+- coloque o macarrao aos poucos na água fervendo, e deixe de 2-3 minutos
+- retire o que estiver boiando
+- deixe escorrer
+- sirva
+
+  
+fotos:
+  - path: ./fotos/macarrao.jpeg
+    titulo: 29/07/2021
+fontes:
+  - airbnb experience
