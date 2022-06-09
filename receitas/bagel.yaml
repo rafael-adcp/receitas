@@ -1,0 +1,37 @@
+id: bagel
+titulo: Bagel
+tempo_preparo: 2 horas
+ingredientes:
+  - 500g farinha
+  - 10g fermento biológico seco instantâneo
+  - 30g açúcar
+  - 10g sal
+  - 2 colheres de sopa de azeite de oliva
+  - 310g água morna
+  - +-1 xícara de gegelim misturado com 2 colheres de sopa de água
+preparo:
+- Misture o fermento com a água morna e deixe por alguns minutos até o fermento ativar
+- adicione a farinha, açúcar sal e azeite e misture por 10 minutos
+- faça uma bola, coloque um pouco de azeite e deixe no bowl crescendo por 90 min
+- tire o gas da massa e divida em 6 pedaços
+- faça bolinhas e deixe descansar por 15 minutos 
+- faça uma minhoquinha e una as pontas ou então faca um furo e alargue
+- ai deixe crescer por 15-20 minutos
+- se for fazer na água colocar na água fervente com mel e deixar +- 30 segundos por lado
+- ai retira e coloca a massa em cima dos toppings
+- coloque no forno pré aquecido a 210ºC e deixe por 15-20 minutos até dourar
+
+- Very Lightly brush some olive oil on bagels after they come out of the oven (optional) and let cool.
+
+fontes:
+  - https://www.lincolnapartmentbakery.com/bagels
+
+fotos:
+- path: ./fotos/bagel-1.jpeg
+  titulo: 23/09/2021
+
+- path: ./fotos/bagel-2.jpeg
+  titulo: 23/09/2021
+
+- path: ./fotos/bagel-3.jpeg
+  titulo: 23/09/2021

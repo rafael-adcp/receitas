@@ -1,0 +1,35 @@
+id: pao-queijo
+titulo: Pão de queijo
+obs: >
+  só fizer apenas com polvilho doce fica mais cheio por dentro, se fizer apenas com o salgado fica mais cracolento. O ideal é descobrir a propoção de ambos q te agrada, mas para começar fazer apenas com o salgado.
+  se for utilizar fécula de mandioca as marcas recomendadas são Amafil e santa ines
+
+tempo_preparo: 45 minutos
+ingredientes:
+  - 3 xícaras de polvilho
+  - 1 xícara de água
+  - 1 xícara menos um dedo de Óleo
+  - 1 colher de sopa de sal
+  - 4 ovos
+
+preparo:
+  - Coloque a água e o óleo para ferver
+  - Escalde o polvilho com a mistura feita acima
+  - misture com uma colher de madeira / bateteidera até esfriar (a ponto de colocar a mão)
+  - acrescente então o ovo
+  - modele as bolinhas
+  - se quiser, enrole com queijo em volta e /ou coloque requeijao / catupiry dentro 
+  - se quiser congelar da para congelar antes ou depois de ir para o forno (antes fica melhor)
+  - forno a 190 graus
+
+fotos:
+  - path: ./fotos/pao-de-queijo.jpeg
+    titulo: >
+       01/02/2022 
+       (esquerda apenas a massa, 
+       meio é massa + queijo dentro,
+       da direita é massa + queijo dentro + queijo em cima)
+       
+
+fontes:
+  - Receita mineira, sogra do Túlio
