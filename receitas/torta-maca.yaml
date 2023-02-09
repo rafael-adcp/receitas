@@ -1,0 +1,49 @@
+id: torta-de-maca
+titulo: Torta de maçã
+tempo_preparo: ??
+ingredientes:
+  - >
+    <b><u>Massa:</u></b>  </br>
+     mesma massa da torta de ricota</br>
+  - >
+    <b><u>Cobertura:</u></b></br>
+    - corte as maçãs em rodelas de maneira delicada!!!! (vai facilitar tuda vida na decoração)</br>
+    - deixe no açucar e canela</br>
+
+  - >
+    <b><u>Recheio:</u></b></br>
+    - 3 colheres de baunilha (colher de chá)</br>
+    - vide recheio torta de maçã! 
+    </br>
+
+preparo:
+  - Unte a assadeira que sai as bordar com manteiga e farinha
+  - Acrescente bolinha de massa na assadeira e espalhe com os dedos
+  - aperta a lateral sutilmente com um garfo
+  - fure a massa com um garfo
+  - Asse a massa folheada e entao coloque o recheio e empilhe as camadas
+  - Asse a massa
+  - Retire do fogo, deixe esfriar e então coloque o recheio e coloque na geladeira
+fontes:
+  - Receita da Alice
+fotos:
+- path: ./fotos/torta-maca/torta-maca-1.jpeg
+  titulo: 23/12/2022
+
+- path: ./fotos/torta-maca/torta-maca-2.jpeg
+  titulo: 23/12/2022
+
+- path: ./fotos/torta-maca/torta-maca-3.jpeg
+  titulo: 23/12/2022
+
+- path: ./fotos/torta-maca/torta-maca-4.jpeg
+  titulo: 23/12/2022
+
+- path: ./fotos/torta-maca/torta-maca-5.jpeg
+  titulo: 23/12/2022
+
+- path: ./fotos/torta-maca/torta-maca-6.jpeg
+  titulo: 23/12/2022
+
+- path: ./fotos/torta-maca/torta-maca-7.jpeg
+  titulo: 23/12/2022

@@ -1,0 +1,33 @@
+id: rabanada
+titulo: Rabanada
+tempo_preparo: ??
+ingredientes:
+  - pão filão (pão longo para rabanada)
+  - >
+    <b><u>Massa para empanar 1:</u></b></br>
+    - 4 ovos</br>
+    - 2 dedos de leite</br>
+    - açucar</br>
+
+  - >
+    <b><u>Massa para empanar 2:</u></b></br>
+    - leite de coco</br>
+    - 1/2 copo de leite</br>
+    - açucar</br>
+
+      
+
+preparo:
+  - deixe o pão de um dia para o outro
+  - corta em fatias de +- 1,5 dedos
+  - empana no 1, depois empana no 2 ai deixa escorrer
+  - frita dos dois lados até dourar
+
+fontes:
+  - receita da Alice
+fotos:
+- path: ./fotos/rabanada/rabanada-1.jpeg
+  titulo: 23/12/2022
+
+- path: ./fotos/rabanada/rabanada-2.jpeg
+  titulo: 23/12/2022

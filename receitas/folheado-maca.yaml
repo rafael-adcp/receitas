@@ -1,0 +1,43 @@
+id: folheado-de-maca
+titulo: Folheado de maça
+tempo_preparo: ??
+ingredientes:
+  - >
+    <b><u>Massa:</u></b>  </br>
+     Massa em rolo congelada</br>
+  - >
+    <b><u>Recheio:</u></b></br>
+    pica maçãs em cubos</br>
+    acrescente 1 limão</br>
+    bastante açucar e canela</br>
+  - >
+    <b><u>Farofa:</u></b>  </br>
+    3 colheres de sopa de farinha de rosca  </br>
+    3 colhere de sopa de queijo ralado  </br>
+    30 g de manteiga gelada  </br>
+preparo:
+  - Misture todos os ingredientes do recheio e deixo no fogo até reduzir, então desligue e deixe esfriar
+  - Asse a massa folheada e entao coloque o recheio e empilhe as camadas
+fontes:
+  - Receita da Alice
+fotos:
+- path: ./fotos/folheado-maca/folheado-1.jpeg
+  titulo: 23/12/2022
+
+- path: ./fotos/folheado-maca/folheado-2.jpeg
+  titulo: 23/12/2022
+
+- path: ./fotos/folheado-maca/folheado-3.jpeg
+  titulo: 23/12/2022
+
+- path: ./fotos/folheado-maca/folheado-4.jpeg
+  titulo: 23/12/2022
+
+- path: ./fotos/folheado-maca/folheado-5.jpeg
+  titulo: 23/12/2022
+
+- path: ./fotos/folheado-maca/folheado-6.jpeg
+  titulo: 23/12/2022
+
+- path: ./fotos/folheado-maca/folheado-7.jpeg
+  titulo: 23/12/2022
